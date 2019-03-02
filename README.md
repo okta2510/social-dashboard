@@ -1,3 +1,24 @@
+## Hello
+This is my personal repo with react.js, i am welcome for any feedback from you.
+
+
+## How To Running 
+- Makesure you have install nodejs
+- **yarn install**
+- after all packages installed then run one of scripts below
+
+    "start": "react-scripts start",
+    
+    "build": "react-scripts build",
+    
+    "test": "react-scripts test",
+    
+    "eject": "react-scripts eject"
+
+> **for freelance frontend, web design, and wordpress please contact me on me@oktaviardi.com / oktaviardi.com**
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
